@@ -1,12 +1,9 @@
 ![image](https://github.com/Arafat87/Arafat87/assets/60323009/88a907bf-9483-4379-a3fa-1ee0ceb13a39)
-<h3 align="center">A passionate Front-End Developer & Data Scientist </h3>
-<img align="right" alt="Coding" width:"400" src="![coder](https://github.com/Arafat87/Arafat87/assets/60323009/df2100a6-c31b-4b29-9f5c-ee3d9e2ff0c4)
-"
+<h1 align="center">Hi 👋, I'm Arafat Sani</h1>
+<h3 align="center">A passionate Data Scientist & Front-End Developer</h3>
+<img align="right" alt="Coding" width:"400" src="https://github.com/Arafat87/Arafat87/blob/main/coder400.gif?raw=true"
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arafat87&label=Profile%20views&color=0e75b6&style=flat" alt="arafat87" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arafat87" alt="arafat87" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/sani_d3v" target="blank"><img src="https://img.shields.io/twitter/follow/sani_d3v?logo=twitter&style=for-the-badge" alt="sani_d3v" /></a> </p>
 
 - 🔭 I’m currently working on **Credit Card Fraud Detection Using MLA**
 
@@ -33,9 +30,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/sani.dev"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/sani.dev" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arafat87&show_icons=true&locale=en&layout=compact" alt="arafat87" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arafat87&show_icons=true&locale=en" alt="arafat87" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arafat87&" alt="arafat87" /></p>
