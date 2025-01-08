@@ -1,13 +1,13 @@
 ![image](https://github.com/Arafat87/Arafat87/assets/60323009/88a907bf-9483-4379-a3fa-1ee0ceb13a39)
 <h1 align="center">Hi 👋, I'm Arafat Sani</h1>
-<h3 align="center">A passionate Data Scientist & Front-End Developer</h3>
+<h3 align="center">An Aspiring Data Scientist </h3>
 <img align="right" alt="Coding" width:"400" src="https://github.com/Arafat87/Arafat87/blob/main/coder400.gif?raw=true"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arafat87&label=Profile%20views&color=0e75b6&style=flat" alt="arafat87" /> </p>
 
 - 🔭 I’m currently working on **Credit Card Fraud Detection Using MLA**
 
-- 🌱 I’m currently learning **React, R & SQL**
+- 🌱 I’m currently learning **python, SQL & Tableau**
 
 - 📝 I regularly write articles on [https://medium.com/@sani.dev](https://medium.com/@sani.dev)
 
