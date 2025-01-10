@@ -1,5 +1,4 @@
-
-<h1 align="center">Hi 👋, I'm Arafat Sani</h1>
+![image](https://github.com/user-attachments/assets/9f2d34d4-e726-4b06-8dfc-803d9782f9c6)
 <h3 align="center">Data Scientist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arafat87&label=Profile%20views&color=0e75b6&style=flat" alt="arafat87" /> </p>
@@ -29,4 +28,5 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/sani.dev"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/sani.dev" /></a></p><br><br>
 
-[[https://github.com/kittinan/spotify-github-profile][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=p7qjlq1za9nmnci76x90vpgn5&cover_image=true&theme=default&show_offline=true&background_color=273c91&interchange=false&bar_color=53b14f&bar_color_cover=true)]]
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=p7qjlq1za9nmnci76x90vpgn5&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
