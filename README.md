@@ -1,4 +1,4 @@
-![image](https://github.com/Arafat87/Arafat87/assets/60323009/88a907bf-9483-4379-a3fa-1ee0ceb13a39)
+
 <h1 align="center">Hi 👋, I'm Arafat Sani</h1>
 <h3 align="center">Data Scientist</h3>
 
